@@ -2,7 +2,7 @@
 I'm an aspiring fullstack web developer, always excited to build, break, and learn cool things with code.
 
 ## Learning Goals
-Currently developing skills in **Next.js** + **Laravel**
+Currently diving deeper into **Angular** and simultaneously developing skills in **Next.js** + **Laravel**
 
 ## Tech Stack
 #### 💻 Frontend / Backend
